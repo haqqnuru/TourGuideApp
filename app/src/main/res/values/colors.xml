@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ae6e4e</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#ffffff</color>
+    <color name="black">#000000</color>
+
+    <!-- fragment colors -->
+    <color name="relRed">#d1113a</color>
+    <color name="green">#00ac36</color>
+    <color name="blue">#0055ac</color>
+    <color name="safty_orange">#ff7800</color>
+
+    <!-- tablayout and Details actionbar color -->
+    <color name="tabs">#f0d622</color>
+</resources>

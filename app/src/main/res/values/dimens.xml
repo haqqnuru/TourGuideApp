@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Image and list view size on list_item.xml -->
+    <dimen name="height_width">110dp</dimen>
+
+    <!-- general padding and padding -->
+    <dimen name="padding_magin">16dp</dimen>
+
+    <!-- details image size -->
+    <dimen name="image_details">300dp</dimen>
+</resources>

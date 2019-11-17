@@ -1,0 +1,499 @@
+<resources>
+    <string name="app_name">Central Region Tour App</string>
+    <string name="sites">sites</string>
+    <string name="hotels">hotels</string>
+    <string name="schools">schools</string>
+    <string name="festivals">festivals</string>
+    <string name="image">image</string>
+    <string name="name">name</string>
+    <string name="location">location</string>
+    <string name="location2">Location:</string>
+    <string name="description">description</string>
+    <string name="details">Details</string>
+
+
+    <!--  sites  -->
+    <string name="kakumpark">Kakum National Park</string>
+    <string name="kakum">Kakum</string>
+    <string name="fortamst">Fort Amsterdam</string>
+    <string name="kormantin">Kormantin</string>
+    <string name="fortwill">Fort William</string>
+    <string name="anomabu">Anomabu</string>
+    <string name="capecast">Cape Coast Castle</string>
+    <string name="capecoast">Cape Coast</string>
+    <string name="elminacast">Elmina Castle</string>
+    <string name="elmina">Elmina</string>
+    <string name="fortpat">Fort Patience</string>
+    <string name="apam">Apam</string>
+    <string name="fortnas">Fort Nassau</string>
+    <string name="moree">Moree</string>
+    <string name="fortco">Fort Coenroadsburg</string>
+    <string name="fortvic">Fort Victoria</string>
+    <string name="fortgo">Fort Goedo Hoop</string>
+    <string name="senyaberaku">Senya Beraku</string>
+    <string name="kakum_des" >Kakum National Park is on the coast of southern Ghana near Cape Coast in the Central
+        Region, in West Africa. It protects an area of rainforest, home to endangered mammals such as forest
+        elephants, bongo antelopes and primates like the Diana monkey. The park is rich in butterflies and birds,
+        including African grey parrots and hornbills. The Canopy Walkway, suspended 30 meters above the ground,
+        provides treetop views of the forest. \n \n
+        Area: 375 km² \n
+        Phone: 020 042 0831 \n
+        Established: 1992
+    </string>
+    <string name="fortamst_des">Fort Amsterdam, a World Heritage Site is a fort in Kormantin, Central region,
+        Ghana. It was built by the English between 1638 and 1645 as Fort Cormantin or Fort Courmantyne, and
+        was captured by admiral Michiel de Ruyter of the Dutch West India Company in 1665, in retaliation for
+        the capture of several Dutch forts by the English Admiral Holmes in 1664. It was subsequently made part
+        of the Dutch Gold Coast, and remained part of it until the fort was traded with the British in 1868. \n \n
+        Year built: 1638 \n
+        Phone: 055 149 0761 \n
+        Inscription: 1979 (3rd Session)
+    </string>
+    <string name="fortwill_des">Fort William is a fort in Anomabu, Central Region, Ghana, originally known as Anomabo
+        Fort and renamed Fort William in the nineteenth century by its then-commander, Brodie Cruickshank, who
+        added one storey to the main building in the days of King William IV.  It was built in 1753 by the British
+        after they thwarted a French attempt to establish a fort at the same place. Two earlier forts had been
+        established at the same site, one in 1640 by the Dutch, another in 1674 (Fort Charles) by the English.
+        Fort Charles was abandoned in the late-seventeenth century. \n \n
+        Year built: 1753 \n
+        Occupant: United Kingdom
+    </string>
+    <string name="capecastle_des">Cape Coast Castle (Swedish: Carolusborg) is one of about forty \"slave castles\",
+        or large commercial forts, built on the Gold Coast of West Africa (now Ghana) by European traders.
+        It was originally a Portuguese \"feitoria\" or trading post, established in 1555. However in 1653 the
+        Swedish Africa Company constructed a timber fort there. It originally was a centre for the trade in
+        timber and gold. It was later used in the trans-Atlantic slave trade. Other Ghanaian slave castles
+        include Elmina Castle and Fort Christiansborg. They were used to hold slaves before they were loaded
+        onto ships and sold in the Americas, especially the Caribbean. This \"gate of no return\" was the last
+        stop before crossing the Atlantic Ocean \n \n
+        Construction started: 1610 \n
+        Opened: 1653 \n
+        Phone: 057 710 1707
+    </string>
+    <string name="eliminacastle_des">Elmina Castle was erected by the Portuguese in 1482 as Sao Jorge da Mina
+        (St. George of the Mine) Castle, also known simply as Mina (or Feitoria da Mina) in present-day Elmina,
+        Ghana (formerly the Gold Coast). It was the first trading post built on the Gulf of Guinea, and the oldest
+        European building in existence south of the Sahara. First established as a trade settlement, the castle
+        later became one of the most important stops on the route of the Atlantic slave trade. The Dutch seized
+        the fort from the Portuguese in 1637, after an unsuccessful attempt to the same extent in 1596, and took
+        over all of the Portuguese Gold Coast in 1642. The slave trade continued under the Dutch until 1814.
+        In 1872, the Dutch Gold Coast, including the fort, became a possession of Great Britain. \n \n
+        The Gold Coast, which is now Ghana, gained its independence in 1957 from Britain, and had control of the
+        castle. Elmina Castle is a historical site, and was a major filming location for Werner Herzog\'s 1987
+        drama film Cobra Verde. The castle is recognized by UNESCO as a World Heritage Site. \n \n
+        Opened: 1482 \n
+        Phone: 020 179 6793
+    </string>
+    <string name="forpatience_des">The fort was first built as a stone trading lodge in 1697 at the request of the
+        King of Acron, with whom the Dutch had a treaty, and which was situated between the kingdoms of Fante
+        and Agona, with whom the British had a treaty. The executives of the Dutch West India Company were quite
+        wary to establish a fort in an area with minimal trade, and only consented on the condition that it would
+        be built at minimal costs. The Acron were not happy with this, and frequently threatened the Dutch with
+        expulsion if they would not extend the fortifications. As a result, it took the Dutch five years to complete
+        the building, which is why they gave it the name Fort Patience. \n \n
+        By 1721 the lodge had been converted into a defensive fortification, which sat on a craggy peninsula just
+        out from the township to the south, offering a commanding view of Apam\'s harbour to the north, and the
+        Gulf Of Guinea coast to the south, east, and west. \n \n
+        Opened: 1697 \n
+        UNESCO World Heritage Site inscription: 1979 \n
+        Occupant: Netherlands
+    </string>
+    <string name="fornassau_des">Located near Moree in the Central Region, Fort Nassau was the first fort built by
+        the Dutch due to the unfamiliarity of the Dutch with buildings in the tropics. It was established on what
+        became the Dutch Gold Coast and notorious for its unhealthy conditions. \n \n
+        The Dutch, in 1624, expanded the fort. \n \n
+        Fort Nassau served as the capital of the Dutch Gold Coast from its establishment until 1637, when the Dutch
+        captured Fort Elmina from the Portuguese. \n \n
+        From 1598 onward, Dutch merchants traded on the Gold Coast of Africa. Although the Gold Coast was already
+        settled by Portuguese, there was little effort to evict the Dutch, as the military resources were committed
+        to the war in Europe. \n \n
+        This changed after the signing of the Twelve Years\' Truce between Portugal-Spain and the Dutch Republic in
+        1609. The Portuguese now had sufficient resources to protect their trade monopoly, and began attacking the
+        (from the Portuguese viewpoint, illegitimate) Dutch factories on the coast. The factory at Mouri was burned
+        to the ground in 1610. Dutch traders then petitioned the States-General of the Dutch Republic to build a
+        fort on the coast. The States-General was receptive of their demands, and sent Jacob Clantius, who was to
+        become the first General on the Coast, to the Gold Coast in 1611. In 1612, the Treaty of Asebu was signed
+        between the Dutch and the chief of Asebu, which allowed for the establishment of Fort Nassau at Mouri. \n \n
+        Opened: 1612 \n
+        Occupant: Netherlands
+    </string>
+    <string name="forcoen_des">Fort Coenraadsburg or Conraadsburg, also Fort São Tiago da Mina, is a small Portuguese
+        chapel built in honor of Saint Jago and it is situated opposite the Elmina Castle in the Central region of
+        Ghana, to protect Fort Elmina from attacks. Fort Conraadsburg was built in the 1660s. It was built on the
+        site of a fortified chapel that the Portuguese had built and that the Dutch had burned to the ground in
+        the Battle of Elmina (1637). The Dutch ceded the fort to Britain in 1872, together with the entire Dutch
+        Gold Coast. Before the fort was built, the Dutch used the hill as a gun-position to bombard the Portuguese
+        in the year 1637. To prevent others from doing the same tactic against the Portuguese, the Dutch constructed
+        a fortified earthwork the following year. \n \n
+        Opened: 1652 \n
+        UNESCO World Heritage Site inscription: 1979 \n
+        Occupant: Netherlands
+    </string>
+    <string name="forvic_des"> Constructed in 1821 on the site of a ruined fort built in 1712, Fort Victoria was
+        formerly known as ‘Phipp’s Tower’, in honour of its initial constructor English Governor Phipps. It was
+        later renamed Fort Victoria after Queen Victoria of Great Britain. \n \n
+        Perched on a hill on the western part of the Cape Coast Township in the Central Region, the fort overlooks
+        both the Atlantic Ocean and the historic town. Fort Victoria was used as an outlook post for signalling
+        purposes. \n \n
+        Fort Victoria has been preserved as a monument. The fort is in a respectable condition.
+    </string>
+    <string name="fordeg_des">Fort de Goede Hoop or Fort Good Hope was a fort on the Dutch Gold Coast, established in
+        1667 near Senya Beraku. \n \n
+        The Dutch had already had a lodge in Senya Beraku in the 1660s, but that was abandoned when the British
+        built their fort at nearby Winneba. In 1704, the Dutch asked the Queen of Agona for permission to build a
+        fort at Senya Beraku. It was to serve the gold trade with Akim, which is north of Agona. At first, the
+        Dutch built a small triangular fort, that they called Fort de Goede Hoop (or Good Hope in English).
+        The gold trade was not very prosperous, but later on slaves were sold at the fort. By 1715, the fort had
+        become too small and the Dutch decided to double it in size by breaking away the diagonal and making it
+        square-shaped. A slave prison was made in the southwest bastion of the fort. In the second half of the
+        18th century, the fort was surrounded by an outer wall. \n \n
+        Early in 1782, Captain Thomas Shirley in the 50-gun ship Leander and the sloop-of-war Alligator sailed to
+        the Dutch Gold Coast. Britain was at war with The Netherlands and Shirley captured the small Dutch forts
+        at Moree (Fort Nassau - 20 guns), Kormantin (Courmantyne or - 32 guns), Apam (Fort Lijdzaamheid or Fort
+        Patience - 22 guns), Senya Beraku (Fort Goede Hoop - 18 guns), and Accra (Fort Crêvecoeur or Ussher Fort
+        - 32 guns). \n \n
+        The fort was occupied between 1782 and 1785 by Britain, as well as by the local Akim population between
+        1811 and 1816. In 1868, the fort was ceded to the United Kingdom in a large trade of forts between the
+        Netherlands and Britain. \n \n
+        Opened: 1705 \n
+        Occupant: Netherlands
+    </string>
+
+    <!--  hotels  -->
+    <string name="oasis">Oasis Beach Resort</string>
+    <string name="almond">Almond Tree Guest House</string>
+    <string name="rainforest">Rainforest Lodge</string>
+    <string name="akrofrom">Akrofrom</string>
+    <string name="brenu">Brenu Beach Lodge</string>
+    <string name="elminabay">Elmina Bay Resort</string>
+    <string name="anomabobeach">Anomabo Beach Resort</string>
+    <string name="loreto">Hotel Loreto</string>
+    <string name="marrets">Marrets International Hotel</string>
+    <string name="oasis_des">Oasis Beach Resort in Cape Coast features accommodations with a garden. Featuring a bar,
+        the hotel has air-conditioned rooms with free WiFi and an on-site restaurant. \n \n
+        Oasis Beach Resort offers some units with sea views, and some rooms have a balcony. some units will provide
+        guests with a fridge and hot shower. \n \n
+        Market is 0.6 mi from Oasis Beach Resort. \n \n
+        Couples in particular like the location – they rated it 9.1 for a two-person trip.
+    </string>
+    <string name="almond_des">Located in Elmina, 12.9 km from Elmina Castle, Almond Tree Guest House has accommodations
+        with a restaurant, free private parking, a bar and a shared lounge. The property offers car rental and
+        features a garden and terrace. \n \n
+        At the guesthouse, rooms contain a desk, a TV and a private bathroom. Free WiFi is accessible to all
+        guests, while certain rooms are equipped with a balcony. The rooms have a closet. \n \n
+        A continental breakfast is available each morning at Almond Tree Guest House.
+    </string>
+    <string name="rainforest_des">Located in Cape Coast, Rainforest Lodge is a 5-minute drive from the Monkey Forest
+        Reserve, a 10-minute drive from Kakum National Park, and a 30-minute drive from the beach. It offers an
+        outdoor swimming pool, a garden and free Wi-Fi access. \n \n
+        Rooms and suites are air-conditioned and feature a mini-bar, a wardrobe and a seating area with a TV.
+        The private bathroom is equipped with a bath. \n \n
+        Guests are invited to enjoy breakfast every morning at Rainforest Lodge. They can also enjoy local and
+        Chinese dishes in the on-site restaurant. \n \n
+        This property has a meeting room and a 24-hour front desk. Massage treatments can be arranged and free
+        private parking is available on site.
+    </string>
+    <string name="brenu_des">Brenu Beach Lodge is set in Elmina, 5 mi from Elmina Castle. Featuring a restaurant,
+        the property also features a private beach area. \n \n
+        At the resort rooms are equipped with a desk, a TV and a private bathroom. Free WiFi is accessible to
+        all guests, while selected rooms here will provide you with a terrace. The rooms will provide guests
+        with a fridge. \n \n
+        A continental breakfast is available each morning at the property. \n \n
+        The area is popular for fishing and car hire is available at this resort. \n \n
+        Couples in particular like the location – they rated it 9.4 for a two-person trip.
+    </string>
+    <string name="eliminabay_des">Located in Elmina, 4.2 km from Elmina Castle, Elmina Bay Resort provides
+        accommodations with a restaurant, free private parking, an outdoor swimming pool and a bar. Each
+        room at the 2-star hotel has pool views, and guests can enjoy access to a garden and to a terrace.
+        The property has room service, a concierge service and currency exchange for guests. \n \n
+        At the hotel, all rooms come with a closet. Complete with a private bathroom equipped with a shower and
+        free toiletries, all guest rooms at Elmina Bay Resort have a flat-screen TV and air conditioning, and
+        selected rooms here will provide you with a seating area. The rooms will provide guests with a desk and
+        an electric tea pot. \n \n
+        The accommodation offers a continental or à la carte breakfast.
+    </string>
+    <string name="anomabobeach_des">Located in Anomabo, 5.6 km from Fort Amsterdam, Anomabo Beach Resort provides
+        accommodations with a restaurant, free private parking, a bar and a shared lounge. This 2-star resort
+        offers a private beach area. The property has a 24-hour front desk, airport transportation, room service
+        and free WiFi. \n \n
+        At the resort, each room includes a desk. Complete with a private bathroom equipped with free toiletries,
+        guest rooms at Anomabo Beach Resort have a flat-screen TV and air conditioning, and selected rooms contain
+        a seating area. All guest rooms include a closet. \n \n
+        Guests at the accommodation can enjoy a continental breakfast. \n \n
+        Couples in particular like the location – they rated it 8.3 for a two-person trip.
+    </string>
+    <string name="loreto_des">Located 17 mi from Kakum National Park, Hotel Loreto offers accommodations in Cape Coast.
+        It features free WiFi and an outdoor pool. Guests can enjoy the on-site bar. \n \n
+        Some units have a seating area for your convenience. A terrace or balcony are featured in certain rooms.
+        A flat-screen TV with satellite channels is offered. \n \n
+        There is a 24-hour front desk at the property. \n \n
+        Guests can enjoy various activities in the surroundings, including cycling, fishing and canoeing.
+        The hotel also offers bike hire and excursions at a cost. Cape Coast Castle is 6.2 mi from Hotel Loreto,
+        while Elmina castle is 21 minutes\' drive away.
+    </string>
+    <string name="marrets_des">Marrets International Hotel is located in Cape Coast. At the property you will find
+        a 24-hour front desk. Free Wi-Fi access is available in all areas. \n \n
+        All rooms feature private bathrooms fitted with a shower. Hot tub is provided upon requests. \n \n
+        The property offers free public parking at a location nearby. \n \n
+        Kotoka International Airport is 93 mi from the property.
+    </string>
+
+    <!--  schools  -->
+    <string name="mfantsipim">Mfantsipim School</string>
+    <string name="wesleygirls">Wesley Girls Senior High</string>
+    <string name="augustine">St. Augustine\'s Collage</string>
+    <string name="adisadel">Adisadel College</string>
+    <string name="apamshs">Apam Senior High School</string>
+    <string name="holychild">Holy Child High School</string>
+    <string name="mfantsipim_des">Mfantsipim is an all-boys boarding secondary school in Cape Coast, established
+        by the Methodist Church in 1876 to foster intellectual, moral and spiritual growth on the then Gold Coast.
+        Its founding name was Wesleyan High School and the first Headmaster was James Picot, a French scholar, who
+        was only 18 years old on his appointment. \n \n
+        Mfantsipim is nicknamed \"THE SCHOOL\" by its old boys for the fact that several other schools in Ghana such as
+        Prempeh College were born out of it, as these schools were started with students from Mfantsipim.\n \n
+        Founded: April 3, 1876\n
+        Motto: Dwen Hwe Kan\n
+        Number of students: 2,500\n
+        Phone: 024 000 0000\n
+        Sister school: Wesley Girls\' Senior High School\n
+        Colors: Black, Crimson
+    </string>
+    <string name="wesley_des">Wesley Girls\' High School, Ghana, is an educational institution for girls in Cape
+        Coast, founded in 1836, and named after the founder of Methodism, John Wesley. \n \n
+        The school was established in 1836 with 25 girls by the wife of a Methodist minister. It started as a
+        primary school with the aim of offering girls training in reading and writing, sewing and house-keeping
+        and spiritual development. \n \n
+        Wesley Girls\' High School was ranked 68th out of the top 100 best high schools in Africa by Africa Almanac
+        in 2003, based upon quality of education, student engagement, strength and activities of alumnae, school
+        profile, internet and news visibility. \n \n
+        Motto: Live Pure, Speak True, Right Wrong , Follow the King \n
+        Founded: 1836 \n
+        Number of students: 1,350 \n
+        Phone: 050 228 8449 \n
+        Staff: 68 \n
+        Colors: Green, Yellow
+    </string>
+    <string name="augustine_des">St. Augustine\’s College is an all-male academic institution in Cape Coast, Ghana.
+        The school started at Amissano, a village near Elmina, in 1930. The Roman Catholic institution was
+        established to serve as a training college and seminary. The school was named after St. Augustine of Hippo
+        (354 – 430 AD). The motto of the college is Omnia Vincit Labor, meaning "\Perseverance conquers All\".The
+        school has a total of 11 houses. \n \n
+        St. Augustine\'s is the first catholic institution in the training of male teachers. It is also the first
+        catholic second cycle school (senior high school) to be built in Gold Coast, (now Ghana). St. Augustine\’s
+        College is the biggest catholic senior high school in Ghana to date. The college ground and playing fields
+        cover an area of about 1.30 acres. It is bounded by Fosu Lagoon/Adisadel Estates to the North, St.
+        Augustine’s Practice J.H.S., the Catholic Education Unit and Archbishop’s House to the West, the Cape
+        Coast metropolitan Hospital and part of the Fosu Lagoon to the East and the Atlantic Ocean to the South.
+        It is about 1.8 km from Cape Coast Town Hall (Bakaano) and about 2.3 km from the West gate of University
+        of Cape Coast. The school has a student population of about 1,900 and a faculty number of about 90. \n \n
+        On 6 August 1933, the Roman Catholic Church and the Bishop of Cape Coast Vicariate Monsignor W. T. Porter
+        felt the need to have a separate Roman Catholic school and Cape Coast was found to be the most suitable
+        location. A commemorative foundation stone was laid in late 1935 at the present site. Fr. Maurice B.
+        Kelly, the Dean of the Training College at Amissano which is now St. Teresa’s Seminary, Amisano, became
+        the first Head Dean or Headmaster. \n \n
+        Motto: Omnia Vincit Labor \n
+        Founded: 1930 \n
+        Number of students: 2,000 \n
+        Phone: 033 213 2733 \n
+        Mascot: Hippo \n
+        Affiliation: Catholic Church \n
+        Staff: 82 \n
+        Colors: White, Green
+    </string>
+    <string name="adisadel_des">Adisadel College, popularly known as "\ADISCO\", is an Anglican boys\' boarding
+        school in Cape Coast, Ghana. Key aspects of the school\'s administration and curriculum were originally
+        modelled on the English public school system during the colonial era. The present curriculum falls within
+        the Senior High School system in Ghana, with overall oversight by the Ghana Education Service. The word
+        "\Adisco\" is a portmanteau of "\Adisadel\" and "\College\". The school is named after what used to be a
+        small village on the outskirts of the Cape Coast township - Adisadel Village. In recent times, the village
+        has expanded considerably and gradually merged imperceptibly with the main township. It is now a sprawling
+        urban suburb with vibrant commercial activities. Adisco and Adisadel Village share direct boundaries, with
+        the former occupying the hilly landscape and part of the adjoining low-lying area. It is commonly
+        acceptable to use the name of the village (Adisadel) in reference to the school. \n \n
+        Adisadel College was ranked 10th out of the top 100 best high schools in Africa by Africa Almanac in 2014,
+        based on quality of education, student engagement, strength and activities of alumni, school profile,
+        internet and news visibility. \n \n
+        Founded: 1910 \n
+        Phone: 033 213 2543 \n
+        Number of students: 1,500 \n
+        Founder: Temple Hamlyn \n
+        Mascot: Zebra \n
+        Colors: Black, White
+    </string>
+    <string name="apam_des">Apam Senior High School is a coeducational senior high school at Apam in the Gomoa
+        West District of the Central Region of Ghana. \n \n
+        Apam Secondary School, in the Zone B District of the Central region of Ghana, was established in 1953
+        at Paado\'s plains, a suburb of Apam (a coastal town in the area). The school had a very humble beginning
+        under a cocoa shed and oak trees. It started under the management of Rev. deGraft-Johnson as a day school
+        with Mr. C.S Arthur Hesse as the only teacher. \n \n
+        In 1960, the school relocated to its present site, Mbofra mfa Adwen, with a very grand and impressive
+        opening ceremony performed by Lord Listowel, the last Governor of the then Gold Coast, now Ghana. The
+        development of the school that led to the adoption of the name Great Apass was achieved under the
+        leadership and aegis of the late Dr. Peter Augustus Owiredu otherwise known as PAO. Dr. P.A Owiredu took
+        over as the headmaster from Rev. degraft-Johnson in 1959 to 1981(?). \n \n
+        By 1964, the school had moved from a day school to a boarding school and had introduced advanced Level
+        subjects in the Arts and Sciences in addition to the Ordinary Level courses it offered. \n \n
+        Founder: Joseph W.S. de Graft-Johnson \n
+        Founded: February 20, 1953 \n
+        School district: Gomoa \n
+        Colors: Green, Yellow \n
+        Alumnis: David Dontoh, Ato Quayson
+    </string>
+    <string name="holychild_des">Holy Child School, also known as Angel\'s Hill, is a female second-cycle
+        institution in Cape Coast in the Central Region of Ghana. In 2003, the school was ranked among the best
+        10 schools in Africa, producing the best overall female student in the 2003 Senior Secondary School
+        Certificate Examinations (SSSCE) Holy Child School also produced the best overall student,Jochebed
+        Adwoa Sutherland and the second best overall student, Audrey Emefa Awuttey for the 2017 West African
+        Senior School Examination, WASSCE. It was founded by the Society of the Holy Child Jesus (SHCJ)
+        in the year 1946 to provide education to Catholics within the region.The current student population stands
+        at over 1000 girls aged between 14 and 18 years. All students of Holy Child School are boarders. The School
+        has always prided itself in providing holistic education for females so that they may strive to achieve
+        higher heights and become \"Women of Substance\". The school motto is \"Facta Non Verba\" which simply
+        means Actions Not Words. The present headmistress of the school is Rev. Sister Josephine Anto, commonly
+        known as \"JoJoy\" or \"Joezzy\" Their colours are yellow and brown. \n \n
+        Founder: Society of the Holy Child Jesus \n
+        Founded: 1946 \n
+        Phone: 4232104 \n
+        School district: Cape Coast Metropolitan \n
+        Colors: Yellow, Brown
+    </string>
+
+    <!--  festivals  -->
+    <string name="aboakye">Aboakye Festival</string>
+    <string name="winneba">Winneba</string>
+    <string name="masquerading">Masquerading Festival</string>
+    <string name="bronya">Edina Bronya</string>
+    <string name="bakatue">Edina Bakatue Festival</string>
+    <string name="akwambo">Akwambo Festival</string>
+    <string name="agona">Agona</string>
+    <string name="panafest">Panafest</string>
+    <string name="odwira">Odwira Festival</string>
+    <string name="jukwa">Jukwa</string>
+    <string name="afahye">Fetu Afahye</string>
+    <string name="okyir">Okyir Festival</string>
+    <string name="aboakyir_des">The festival is a celebration to mark the migration of these people from the ancient
+        Western Sudan Empire where they were led by 2 brothers and a god called Otu. Upon consulting their god, they
+        were instructed by their traditional priest or mediator between the people and the god to sacrifice a young
+        member of the Royal family every year to their god. \n \n
+        This was not good news so they made an appeal to their god who asked for an animal from the wildcat family
+        to be caught alive and beheaded before the god. \n \n
+        Before the festival began they settled the god at a place called Penkye hence the god became Penkyi Otu.
+        When the people went out to hunt down the wild cat they lost so many men before capturing it alive. This
+        caused the second appeal. Penkyi Otu decided to accept a mature bushbuck this looks like a deer. \n \n
+        The people of Simpa sang this story in their war chants and told it during moonlit nights. It was kept and
+        protected till it could be written in English for all to read. \n \n
+        Today, the Aboakyir festival is celebrated in May each year and is a major event in Ghana.
+    </string>
+    <string name="masquerading_des">It started around the 1920\’s and is celebrated on the 1st of January every year
+        and draws large crowds from all over. \n \n
+        There are four fancy-dressing groups who participate in the festival competition, wearing masks and accompanied
+        by brass band music. The festival begins in the morning of New Year Day with street dancing and is open to all
+        the performing groups who parade through the principal streets of Winneba. \n \n
+        The groups converge at the Advanced Teacher Training College Park where the competition takes the form of
+        a march past and three different dances (Highlife/Blues) performed by the groups. \n \n
+        A team of judges award marks and at the end of the day the most versatile group is crowned the winner.
+    </string>
+    <string name="bronya_des">This festival is a novel Christmas introduced to the people of Elmina during the Dutch
+        era of the colonial period. The period coincides with the Dutch Festival which falls on the first Thursday
+        of January every year and marked in Elmina to signify the bond of friendship between the Dutch and the people
+        of Elmina. \n \n
+        A fish-catching ritual is performed at the banks of the Benya Lagoon by the Asafo Companies in their full
+        regalia. The Paramount Chief and his retinue are present at the banks and musketry is fired. On the eve of
+        the festival, the Paramount chief climbs up Fort SI. Jago and fires shots at midnight to usher in the New
+        Year. The Paramount Chief rides in a Palanquin the next day to pay homage to the various clans. \n \n
+        Libation is poured using locally prepared wine and there is sprinkling of mashed yam as well as shaking of
+        hands with family heads to signify peace, prosperity and good health in the coming year. The paramount Chief
+        and his elders converge in front of Elmina Castle where a sheep is slaughtered. There is merry-making drumming
+        and dancing throughout.
+    </string>
+    <string name="bakatue_des">Literally translated means \“The opening of the Lagoon\” or \"the Draining of the Lagoon\”.
+        It is celebrated to commemorate the founding of the town, Elmina by the Europeans. It is also celebrated to
+        invoke the deity, Nana Benya’s continuous protection of the state and its people. \n \n
+        During the celebration, the Paramount Chief and his sub-chiefs, elders\’ fetish priests and priestesses, and
+        indeed the entire state offer the sacred food of eggs and mashed yam mixed with palm oil to the river god
+        and prays for peace. \n \n
+        All rituals are performed on Mondays. Fetish priests and priestesses and drummers take turns to perform their
+        rituals. There is a performance of the spiritually possessed chief fetish priest as he responds to spiritual
+        revelations. \n \n
+        There is royal possession made up of gorgeously dressed chiefs and stool carriers, some riding in beautifully
+        decorated palanquins. After performing some rituals at the riverside, the chief priest casts his net three
+        times and announces the lifting of the ban on fishing, drumming, funerals and other social activities in the
+        traditional area. \n \n
+        There is a spectacular ride on the lagoon by women resplendent in \“Kente\” cloth and local festive headgears.
+        A royal procession leading to the chief’s palace amidst traditional music ends the festival
+    </string>
+    <string name="akwambo_des">The people of Agona in the Central Region celebrate the festival literally meaning
+        \“path-clearing\”. The Asafo companies weed footpaths leading to the streams or rivers, farms and other
+        communal places, as well as paths, which lead to shrines. The following day, the whole community assembles
+        at the ancestral shrines and the chief pours libation to the ancestral spirits to thank them for their
+        protection during the previous year and then request for more blessing, abundant rainfall and good harvest
+        for the ensuing year. At the stream or riverside where some of the sacrifices are offered, alligators and
+        other species of fish come out to enjoy the mashed yams sprinkled on the water. \n \n
+        With their bodies smeared with clay, the people then parade with twigs and tree branches through the town
+        in groups amidst drumming, dancing and firing of musketry. \n \n
+        In a procession, they go through the principal routes and then to the durbar ground to meet the chief and
+        his elders. \n \n
+        There is a vigil kept at night and patronized mainly by the youth. It is a time when people come together
+        to renew family and social ties. Performing groups, which are dormant are revitalized and new groups
+        initiated.
+    </string>
+    <string name="panafest_des">Pan-African Historic Festival is a major biennial event of cultural forum for Africans
+        and people of African descent as well as friends of the continent committed to the noble cause of Pan
+        Africanism. \n \n
+        The venues for the Panafest are the historical towns of Cape Coast and Elmina. The festival is a celebration
+        of African cultural values, history and civilization. This consists of:
+        \*performances and workshops in theatre, drama, music, cinema, poetry, colloquia and lectures. \n
+        \*colourful traditional durbar of chiefs and people of Ghana \n
+        \*tours/excursions to places of interest such as the slave castle dungeons. \n \n
+        Panafest brings together participants from all over the world.
+    </string>
+    <string name="odwira_des">The Odwira Festival, which is celebrated by the Denkyira people, runs for weeks,
+        beginning at Jukwa, the traditional capital, and ends at Dunkwa-on Offin, the administrative capital. It
+        signifies cleansing or bathing their ancestors and lesser gods. Drumming and firing of guns are done to
+        announce the festival in the palace. There is wailing and weeping by the women amidst the firing of guns
+        by the Asafo companies. Its significance is to remember the departed. \n \n
+        On Friday, the two Asafo Companies (traditional warriors) joined by the inhabitants, take to the streets
+        of Jukwa amidst drumming and dancing. Later the Chief is carried in a palanquin to a sacred place where
+        sacrifices are made to departed royals of the Denkyira State. \n \n
+        The festival in Jukwa ends with a durbar of chiefs and people of the area. After the first week in Jukwa,
+        the festival is moved to Dunkwa-on Offin, the administrative capital for the climax of the festivities.
+    </string>
+    <string name="afahye_des">The most attractive aspects of Ghanaian cultural life are that of the colourful
+        traditional festivals and durbars which are frequently held in all part of the country. \n \n
+        Festivals reveal some common features, during these festivals; the people remember there past leaders and
+        pray for help and protection. Festivals are also held in order to purify the whole state so that the people
+        can enter the New Year with confidence and hope. \n \n
+        Fetu Afahye is being celebrated by the people of Oguaa or Cape Coast Traditional Area in the Central Region
+        is named after the 17th Century Fetu or Effutu kingdom which is located 19 kilometres inland of Cape Coast.
+        This festival starts on the 1st of September every year, features of this festival is the state purification
+        rites which includes the paramount Chief’s Yam festival and is observed in the form of offering mashed yams
+        to the gods. \n \n
+        The festival is very colourful and it\’s like a grand festival there is a processing of chiefs, drumming,
+        dancing and firing of musketry but this is uniqueness in the traditional attire of the various warrior groups
+        and the slaughtering of a cow in public for the 77 gods of Oguaa (Cape Coast). \n \n
+        There is also a display of traditional priests and priestesses on Monday night, which attracts large crowd
+        mainly the youth and thousands of people including foreigners from all over the country travel to witness
+        the festival. This festival has effect of creating in the people a feeling of pride in their cultural heritage
+        and spiritual affinity. \n \n
+        During this occasion it also gives people the opportunity to meet old friends and relatives they\’ve missed
+        for a long time. \n \n
+        But there is another significant feature ceremony \“Bakatue\” involves cutting through the sand bar separating
+        the Fosu lagoon and the sea to allow the lagoon access into the sea presumably to bring more fish into the
+        lagoon. \n \n
+        The Omanhene (Paramount Chief) as part of the event, pours libation to the deity, Nana Fosu, Omanhenes\’ net
+        is cast three times into the lagoon to signify the lifting of the ban on lagoon fishing. \n \n
+        Various fishermen\’s groups in the municipality organize a regatta or board race on the lagoon. A grand
+        Durban climaxes the festival.
+    </string>
+    <string name="okyir_des">Okyir is the major festival celebrated by the people of Anomabu. It is celebrated as a
+        sign of cleansing or purification of the town from filth, evil spirits etc. \n \n
+        Highlights of the festival include the following activities: \n \n
+        \• A yam festival celebrated by offering food to the 77 gods of the town. \n
+        \• Vigil keeping. \n
+        \• Preparation and distribution of food among friends and loved ones. \n
+        \• A colourful durbar of chiefs. \n
+        \• Beach programme. \n \n
+        The climax of the Okyir is on the second Sunday of October
+    </string>
+
+</resources>
